@@ -8,5 +8,6 @@ add merge2
 bug fix done
 merged collaborate 2
 commit 1
+commit 2
 
 
